@@ -1,0 +1,47 @@
+```yaml
+- name: RoyalFlush™ Clan Family
+    key: RF
+    color: yellow
+    emblem: flag_j_03
+    info:
+      logo: /static/img/brands/logo/flag_j_03.png
+      description: >
+        The **RoyalFlush Clan Family** (RF) consists of a **PRO eSport team**, a **trophy-pushing** clan and competitive clan where we look for talent.
+        We are eSports organization committed to Clash Royale.
+        Our clan family is home to many of Clash Royale’s tournament players,one of whom made it to the CCGS.
+        We have a clan on the **global leaderboard** with **RoyalFlush™** consistently in the top 100.
+        Every clan in our family finishes the clan crown chest every time.
+      social:
+        - website: http://royalflushcr.com
+        - twitter: http://twitter.com/royalflush_cr
+        - instagram: https://www.instagram.com/royalflush.cr
+        - discord: http://discord.gg/3MBAD7c
+        - youtube: https://www.youtube.com/channel/UCYJslpCL2zmI9c4xcdpCOhg        
+    clans:
+      - name: RoyalFlush™
+        tag: 89UJ8J2J 
+      - name: RF™ eSports
+        tag: 8UP08G2Y
+      - name: RoyalFlush
+        tag: Y0JPU9Y
+      - name: RoyalFlush II
+        tag: CPVV9QJ
+      - name: RoyalFlush III
+        tag: CJLUGRG
+      - name: RoyalFlush IND
+        tag: 8Q0YPP0C
+      - name: RoyalFlush USA
+        tag: 8GY0L0LU
+      - name: RoyalFlush UK
+        tag: 8GVPLCUY
+      - name: RoyalFlush AUS
+        tag: 8LV0GRRR
+      - name: RoyalFlush VE - Espanol 
+        tag: 8PPCR2JV
+      - name: RoyalFlush SG
+        tag: 8U98U9QG
+      - name: RoyalFlush JPN - ???
+        tag: 8PQYCURV
+```
+
+ 
